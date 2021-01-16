@@ -1,6 +1,5 @@
 # SQL Homework - Employee Database: A Mystery in Two Parts
-##### David Fournie
-##### 1/16/2021
+### David Fournie ### 1/16/2021
 
 ### Task One: List the following details of each employee: employee number, last name, first name, sex, and salary.
 Since the information requested is located in two different tables, it seemed easiest to create a Veiw(employee_salaries) of the join between the Employees and Salaries tables. That way the pertinent information can be queried without having to write longer code.
